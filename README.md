@@ -31,13 +31,13 @@ forwarding
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
 - <p align="center">
-  <a href="https://t.me/ali_noob7">
+  <a href="https://t.me/@ali_noob7">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/ali_noob7">
+  <a href="https://t.me/@ali_noob7">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/ali_noob7">
+  <a href="https://t.me/@ali_noob7">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
